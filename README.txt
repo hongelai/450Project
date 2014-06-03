@@ -1,5 +1,3 @@
-Name:Hongzhi Li
-USCID:1322106452
 DONE:ALL required
 FILES:
     auctionserver.c:Handle all the login procedure and authentication.
